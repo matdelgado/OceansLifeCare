@@ -1,0 +1,10 @@
+0 Pouvo
+1 Gaivota
+2 Estrela
+3 Foca
+4 Golfinho
+5 Carangueijo
+6 Cavalo
+7 Tartaruga
+8 Tubarao
+9 Lixo
